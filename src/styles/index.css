@@ -1,0 +1,14 @@
+h1 {
+    color: #1c78c0;
+}
+
+img {
+    height: 50px;
+}
+
+.app-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+}
